@@ -3,7 +3,6 @@
 <p align="center">
 	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
 	</p>
-<div align="center">
 
 <img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
 
