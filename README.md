@@ -39,184 +39,184 @@ This Will Also Utilize claudemods-alpm
 
 <div align="centre">
 Things In Minimal Script
-<div align="left">
+<div align="centre">
 Installed Arch Packages
-<div align="left">
+<div align="centre">
 claudemods-alpm
-<div align="left">
+<div align="centre">
 apexisocreatorscript
-<div align="left">
+<div align="centre">
 apexbrowser
-<div align="left">
+<div align="centre">
 apexinstaller
-<div align="left">
+<div align="centre">
 linux-zen
-<div align="left">
+<div align="centre">
 linux-zen-headers
-<div align="left">
+<div align="centre">
 bauh store appimage
-<div align="left">
+<div align="centre">
 dns manager appimage
-<div align="left">
+<div align="centre">
 stacer appimage
-<div align="left">
+<div align="centre">
 balena-etcher appimage
-<div align="left">
+<div align="centre">
 gwenview
-<div align="left">
+<div align="centre">
 ksystemlog
-<div align="left">
+<div align="centre">
 virt-manager
-<div align="left">
+<div align="centre">
 gnome-boxes
-<div align="left">
+<div align="centre">
 piper
-<div align="left">
+<div align="centre">
 gparted
-<div align="left">
+<div align="centre">
 waydroid
-<div align="left">
+<div align="centre">
 konsole
-<div align="left">
+<div align="centre">
 kate
-<div align="left">
+<div align="centre">
 firefox
-<div align="left">
+<div align="centre">
 python-sphinx
-<div align="left">
+<div align="centre">
 python-chardet
-<div align="left">
+<div align="centre">
 scrcpy
-<div align="left">
+<div align="centre">
 glib2-devel
-<div align="left">
+<div align="centre">
 ark
-<div align="left">
+<div align="centre">
 binder_linux-dkms
-<div align="left">
+<div align="centre">
 xf86-input-elographics
-<div align="left">
+<div align="centre">
 xf86-input-evdev
-<div align="left">
+<div align="centre">
 xf86-input-libinput
-<div align="left">
+<div align="centre">
 xf86-input-synaptics
-<div align="left">
+<div align="centre">
 xf86-input-vmmouse
-<div align="left">
+<div align="centre">
 xf86-input-void
-<div align="left">
+<div align="centre">
 xf86-input-wacom
-<div align="left">
+<div align="centre">
 xf86-video-amdgpu
-<div align="left">
+<div align="centre">
 xf86-video-ati
-<div align="left">
+<div align="centre">
 xf86-video-dummy
-<div align="left">
+<div align="centre">
 xf86-video-fbdev
-<div align="left">
+<div align="centre">
 xf86-video-intel
-<div align="left">
+<div align="centre">
 xf86-video-nouveau
-<div align="left">
+<div align="centre">
 xf86-video-sisusb
-<div align="left">
+<div align="centre">
 xf86-video-vesa
-<div align="left">
+<div align="centre">
 xf86-video-vmware
-<div align="left">
+<div align="centre">
 xf86-video-voodoo
-<div align="left">
+<div align="centre">
 
 Things In Full Edition
-<div align="left">
+<div align="centre">
 Install Arch Packages
-<div align="left">
+<div align="centre">
 claudemods-alpm
-<div align="left">
+<div align="centre">
 apexisocreatorscript
-<div align="left">
+<div align="centre">
 apexbrowser
-<div align="left">
+<div align="centre">
 apexinstaller
-<div align="left">
+<div align="centre">
 linux-zen
-<div align="left">
+<div align="centre">
 linux-zen-headers
-<div align="left">
+<div align="centre">
 bauh store appimage
-<div align="left">
+<div align="centre">
 dns manager appimage
-<div align="left">
+<div align="centre">
 stacer appimage
-<div align="left">
+<div align="centre">
 balena-etcher appimage
-<div align="left">
+<div align="centre">
 gwenview
-<div align="left">
+<div align="centre">
 ksystemlog
-<div align="left">
+<div align="centre">
 virt-manager
-<div align="left">
+<div align="centre">
 gnome-boxes
-<div align="left">
+<div align="centre">
 piper
-<div align="left">
+<div align="centre">
 gparted
-<div align="left">
+<div align="centre">
 waydroid
-<div align="left">
+<div align="centre">
 konsole
-<div align="left">
+<div align="centre">
 kate
-<div align="left">
+<div align="centre">
 firefox
-<div align="left">
+<div align="centre">
 python-sphinx
-<div align="left">
+<div align="centre">
 python-chardet
-<div align="left">
+<div align="centre">
 scrcpy
-<div align="left">
+<div align="centre">
 glib2-devel
-<div align="left">
+<div align="centre">
 ark
-<div align="left">
+<div align="centre">
 binder_linux-dkms
-<div align="left">
+<div align="centre">
 xf86-input-elographics
-<div align="left">
+<div align="centre">
 xf86-input-evdev
-<div align="left">
+<div align="centre">
 xf86-input-libinput
-<div align="left">
+<div align="centre">
 xf86-input-synaptics
-<div align="left">
+<div align="centre">
 xf86-input-vmmouse
-<div align="left">
+<div align="centre">
 xf86-input-void
-<div align="left">
+<div align="centre">
 xf86-input-wacom
-<div align="left">
+<div align="centre">
 xf86-video-amdgpu
-<div align="left">
+<div align="centre">
 xf86-video-ati
-<div align="left">
+<div align="centre">
 xf86-video-dummy
-<div align="left">
+<div align="centre">
 xf86-video-fbdev
-<div align="left">
+<div align="centre">
 xf86-video-intel
-<div align="left">
+<div align="centre">
 xf86-video-nouveau
-<div align="left">
+<div align="centre">
 xf86-video-sisusb
-<div align="left">
+<div align="centre">
 xf86-video-vesa
-<div align="left">
+<div align="centre">
 xf86-video-vmware
-<div align="left">
+<div align="centre">
 xf86-video-voodoo
 
 
