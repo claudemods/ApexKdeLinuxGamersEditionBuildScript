@@ -39,6 +39,8 @@ This Will Also Utilize claudemods-alpm
 
 <div align="centre">
 Things In Minimal Script
+	div align="centre">
+		NTFS Support
 <div align="centre">
 	<div align="centre">
 		<div align="centre">
@@ -137,8 +139,10 @@ xf86-video-voodoo
 <div align="centre">
 <div align="centre">
 Things In Full Edition
+	<div align="centre">
+		NTFS Support
 <div align="centre">
-Install Arch Packages
+Installed Arch Packages
 <div align="centre">
 claudemods-alpm
 <div align="centre">
