@@ -1,9 +1,4 @@
 
-</p>
-<p align="center">
-	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
-
-
 
 <p align="center">
 <img width="750" src="https://i.postimg.cc/N06gqGwN/Apex-Kde-Linux-Gamers-Edition-B-2-20-2025.png" alt="logo">
@@ -36,7 +31,10 @@ There Will Be 2 Scripts 1 For My Minimal Edition And One For My Full Edition
   <div align="center">
 This Will Utilize My Kde Cloner To Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
 This Will Also Utilize claudemods-alpm
-  </p>
+  
+</p>
+<p align="center">
+	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
 <p align="center">
 <img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
 <div align="centre">
