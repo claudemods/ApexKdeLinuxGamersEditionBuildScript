@@ -132,7 +132,8 @@ xf86-video-vmware
 <div align="centre">
 xf86-video-voodoo
 <div align="centre">
-
+<p align="center">
+<img width="750" src="https://i.postimg.cc/N06gqGwN/Apex-Kde-Linux-Gamers-Edition-B-2-20-2025.png" alt="logo">
 <div align="centre">
 <div align="centre">
 Things In Full Edition
