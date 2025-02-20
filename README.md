@@ -36,9 +36,9 @@ There Will Be 2 Scripts 1 For My Minimal Edition And One For My Full Edition
   <div align="center">
 This Will Utilize My Kde Cloner To Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
 This Will Also Utilize claudemods-alpm
-<img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
-	  </p>
+  </p>
 <p align="center">
+<img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
 <div align="centre">
 Things In Minimal Script
 	<div align="centre">
