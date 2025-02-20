@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/github/v/release/claudemods/ApexArchIsoCreatorScriptAppImage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage/releases/tag/v1.0-Build-14-02-2025)
+[![Version](https://img.shields.io/github/v/release/claudemods/?color=FFD700&label=Latest%20Release&style=for-the-badge)]()
 
 
 </div>
@@ -48,11 +48,6 @@ This Will Utilize My Kde Clone to Clone My Custom Desktop Theme After Setting Up
 <div align="center">
 
 </div>
-
-![2025-02-15-041841_hyprshot](https://github.com/user-attachments/assets/905e6eda-7e53-4908-aaf9-28646b83c6ce)
-![2025-02-15-041856_hyprshot](https://github.com/user-attachments/assets/e9fcf79a-e231-4a7e-9ff4-69b0e45c485d)
-![2025-02-15-041910_hyprshot](https://github.com/user-attachments/assets/c9833da1-b087-44f4-bcc8-44bb16fccddf)
-
 
 <div align="center">
 
