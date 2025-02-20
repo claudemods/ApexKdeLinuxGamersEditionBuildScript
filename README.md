@@ -39,7 +39,7 @@ This Will Also Utilize claudemods-alpm
 
 <div align="centre">
 Things In Minimal Script
-	div align="centre">
+	<div align="centre">
 		NTFS Support
 <div align="centre">
 	<div align="centre">
