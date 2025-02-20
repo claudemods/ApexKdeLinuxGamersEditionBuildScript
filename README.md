@@ -51,6 +51,9 @@ Installed Arch Packages
 <div align="centre">
 claudemods-alpm
 <div align="centre">
+	<div align="centre">
+apexisocreatorgui
+		<div align="centre">
 apexisocreatorscript
 <div align="centre">
 	claudemods-apu
