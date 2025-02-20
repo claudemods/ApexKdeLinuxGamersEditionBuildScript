@@ -35,7 +35,189 @@ c++23 konsole script to install Apex KLGE This Will contain Kde Linux Repos With
 There Will Be 2 Scripts 1 For My Minimal Edition And One For My Full Edition
   <div align="center">
 This Will Utilize My Kde Cloner To Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
+This Will Also Utilize claudemods-alpm
 
+</div>
+Things In Minimal Script
+</div>
+Installed Arch Packages
+</div>
+claudemods-alpm
+</div>
+apexisocreatorscript
+</div>
+apexbrowser
+</div>
+apexinstaller
+</div>
+linux-zen
+</div>
+linux-zen-headers
+</div>
+bauh store appimage
+</div>
+dns manager appimage
+</div>
+stacer appimage
+</div>
+balena-etcher appimage
+</div>
+gwenview
+</div>
+ksystemlog
+</div>
+virt-manager
+</div>
+gnome-boxes
+</div>
+piper
+</div>
+gparted
+</div>
+waydroid
+</div>
+konsole
+</div>
+kate
+</div>
+firefox
+</div>
+python-sphinx
+</div>
+python-chardet
+</div>
+scrcpy
+</div>
+glib2-devel
+</div>
+ark
+</div>
+binder_linux-dkms
+</div>
+xf86-input-elographics
+</div>
+xf86-input-evdev
+</div>
+xf86-input-libinput
+</div>
+xf86-input-synaptics
+</div>
+xf86-input-vmmouse
+</div>
+xf86-input-void
+</div>
+xf86-input-wacom
+</div>
+xf86-video-amdgpu
+</div>
+xf86-video-ati
+</div>
+xf86-video-dummy
+</div>
+xf86-video-fbdev
+</div>
+xf86-video-intel
+</div>
+xf86-video-nouveau
+</div>
+xf86-video-sisusb
+</div>
+xf86-video-vesa
+</div>
+xf86-video-vmware
+</div>
+xf86-video-voodoo
+</div>
+
+Things In Full Edition
+</div>
+Install Arch Packages
+</div>
+claudemods-alpm
+</div>
+apexisocreatorscript
+</div>
+apexbrowser
+</div>
+apexinstaller
+</div>
+linux-zen
+</div>
+linux-zen-headers
+</div>
+bauh store appimage
+</div>
+dns manager appimage
+</div>
+stacer appimage
+</div>
+balena-etcher appimage
+</div>
+gwenview
+</div>
+ksystemlog
+</div>
+virt-manager
+</div>
+gnome-boxes
+</div>
+piper
+</div>
+gparted
+</div>
+waydroid
+</div>
+konsole
+</div>
+kate
+</div>
+firefox
+</div>
+python-sphinx
+</div>
+python-chardet
+</div>
+scrcpy
+</div>
+glib2-devel
+</div>
+ark
+</div>
+binder_linux-dkms
+</div>
+xf86-input-elographics
+</div>
+xf86-input-evdev
+</div>
+xf86-input-libinput
+</div>
+xf86-input-synaptics
+</div>
+xf86-input-vmmouse
+</div>
+xf86-input-void
+</div>
+xf86-input-wacom
+</div>
+xf86-video-amdgpu
+</div>
+xf86-video-ati
+</div>
+xf86-video-dummy
+</div>
+xf86-video-fbdev
+</div>
+xf86-video-intel
+</div>
+xf86-video-nouveau
+</div>
+xf86-video-sisusb
+</div>
+xf86-video-vesa
+</div>
+xf86-video-vmware
+</div>
+xf86-video-voodoo
 
 
 
