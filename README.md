@@ -28,7 +28,7 @@
 
 
 <div align="center">
-AppImage v1.0 Beta build 15-02-2025 Written in Cpp,
+ Will Be Written in Cpp Currently Im Building It
   <div align="center">
 c++23 konsole script to install Apex This Will contain Kde Linux Repos With Chaotic Aur
 <div align="center">
