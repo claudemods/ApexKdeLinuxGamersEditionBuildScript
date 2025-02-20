@@ -27,7 +27,7 @@
   <div align="center">
 c++23 konsole script to install Apex KLGE This Will contain Kde Linux Repos With Chaotic Aur
 <div align="center">
-There Will Be 2 Scripts 1 For My Minimal Edition And One For My Full Edition
+There Will Be 4 Scripts 1 For My Minimal Edition And One For My Full Edition 1 for Stable Repos 1 For Rolling Repos
   <div align="center">
 This Will Utilize My Kde Cloner To Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
 This Will Also Utilize claudemods-alpm
