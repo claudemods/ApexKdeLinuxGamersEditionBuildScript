@@ -40,6 +40,10 @@ This Will Also Utilize claudemods-alpm
 <div align="centre">
 Things In Minimal Script
 <div align="centre">
+	<div align="centre">
+		<div align="centre">
+
+   <div align="centre">
 Installed Arch Packages
 <div align="centre">
 claudemods-alpm
@@ -129,6 +133,8 @@ xf86-video-vmware
 xf86-video-voodoo
 <div align="centre">
 
+<div align="centre">
+<div align="centre">
 Things In Full Edition
 <div align="centre">
 Install Arch Packages
