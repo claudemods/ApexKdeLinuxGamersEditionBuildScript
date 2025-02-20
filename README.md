@@ -54,6 +54,10 @@ claudemods-alpm
 <div align="centre">
 apexisocreatorscript
 <div align="centre">
+	claudemods-apu
+<div align="centre">
+	apexisocreatorscript
+<div align="centre">
 apexbrowser
 <div align="centre">
 apexinstaller
@@ -149,6 +153,8 @@ Installed Arch Packages
 claudemods-alpm
 <div align="centre">
 apexisocreatorscript
+	<div align="centre">
+	claudemods-apu
 <div align="centre">
 apexbrowser
 <div align="centre">
