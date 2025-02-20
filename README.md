@@ -46,6 +46,8 @@ Things In Minimal Script
 
    <div align="centre">
 Installed Arch Packages
+	   <div align="centre">
+	KdeLinux-DevPackages
 <div align="centre">
 claudemods-alpm
 <div align="centre">
@@ -150,6 +152,8 @@ Things In Full Edition
 		NTFS Support
 <div align="centre">
 Installed Arch Packages
+	<div align="centre">
+	KdeLinux-DevPackages
 <div align="centre">
 claudemods-alpm
 <div align="centre">
