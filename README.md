@@ -35,7 +35,6 @@ This Will Also Utilize claudemods-alpm
 </p>
 <p align="center">
 	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
-<p align="center">
 <img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
 <div align="centre">
 Things In Minimal Script
@@ -140,6 +139,10 @@ xf86-video-voodoo
 <div align="centre">
 <p align="center">
 <img width="750" src="https://i.postimg.cc/N06gqGwN/Apex-Kde-Linux-Gamers-Edition-B-2-20-2025.png" alt="logo">
+	<p align="center">
+	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
+<img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
+<div align="centre">
 <div align="centre">
 <div align="centre">
 Things In Full Edition
