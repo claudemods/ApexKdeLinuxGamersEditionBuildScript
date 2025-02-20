@@ -37,186 +37,186 @@ There Will Be 2 Scripts 1 For My Minimal Edition And One For My Full Edition
 This Will Utilize My Kde Cloner To Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
 This Will Also Utilize claudemods-alpm
 
-<div align="left">
+<div align="centre">
 Things In Minimal Script
-</div>
+<div align="left">
 Installed Arch Packages
-</div>
+<div align="left">
 claudemods-alpm
-</div>
+<div align="left">
 apexisocreatorscript
-</div>
+<div align="left">
 apexbrowser
-</div>
+<div align="left">
 apexinstaller
-</div>
+<div align="left">
 linux-zen
-</div>
+<div align="left">
 linux-zen-headers
-</div>
+<div align="left">
 bauh store appimage
-</div>
+<div align="left">
 dns manager appimage
-</div>
+<div align="left">
 stacer appimage
-</div>
+<div align="left">
 balena-etcher appimage
-</div>
+<div align="left">
 gwenview
-</div>
+<div align="left">
 ksystemlog
-</div>
+<div align="left">
 virt-manager
-</div>
+<div align="left">
 gnome-boxes
-</div>
+<div align="left">
 piper
-</div>
+<div align="left">
 gparted
-</div>
+<div align="left">
 waydroid
-</div>
+<div align="left">
 konsole
-</div>
+<div align="left">
 kate
-</div>
+<div align="left">
 firefox
-</div>
+<div align="left">
 python-sphinx
-</div>
+<div align="left">
 python-chardet
-</div>
+<div align="left">
 scrcpy
-</div>
+<div align="left">
 glib2-devel
-</div>
+<div align="left">
 ark
-</div>
+<div align="left">
 binder_linux-dkms
-</div>
+<div align="left">
 xf86-input-elographics
-</div>
+<div align="left">
 xf86-input-evdev
-</div>
+<div align="left">
 xf86-input-libinput
-</div>
+<div align="left">
 xf86-input-synaptics
-</div>
+<div align="left">
 xf86-input-vmmouse
-</div>
+<div align="left">
 xf86-input-void
-</div>
+<div align="left">
 xf86-input-wacom
-</div>
+<div align="left">
 xf86-video-amdgpu
-</div>
+<div align="left">
 xf86-video-ati
-</div>
+<div align="left">
 xf86-video-dummy
-</div>
+<div align="left">
 xf86-video-fbdev
-</div>
+<div align="left">
 xf86-video-intel
-</div>
+<div align="left">
 xf86-video-nouveau
-</div>
+<div align="left">
 xf86-video-sisusb
-</div>
+<div align="left">
 xf86-video-vesa
-</div>
+<div align="left">
 xf86-video-vmware
-</div>
+<div align="left">
 xf86-video-voodoo
-</div>
+<div align="left">
 
 Things In Full Edition
-</div>
+<div align="left">
 Install Arch Packages
-</div>
+<div align="left">
 claudemods-alpm
-</div>
+<div align="left">
 apexisocreatorscript
-</div>
+<div align="left">
 apexbrowser
-</div>
+<div align="left">
 apexinstaller
-</div>
+<div align="left">
 linux-zen
-</div>
+<div align="left">
 linux-zen-headers
-</div>
+<div align="left">
 bauh store appimage
-</div>
+<div align="left">
 dns manager appimage
-</div>
+<div align="left">
 stacer appimage
-</div>
+<div align="left">
 balena-etcher appimage
-</div>
+<div align="left">
 gwenview
-</div>
+<div align="left">
 ksystemlog
-</div>
+<div align="left">
 virt-manager
-</div>
+<div align="left">
 gnome-boxes
-</div>
+<div align="left">
 piper
-</div>
+<div align="left">
 gparted
-</div>
+<div align="left">
 waydroid
-</div>
+<div align="left">
 konsole
-</div>
+<div align="left">
 kate
-</div>
+<div align="left">
 firefox
-</div>
+<div align="left">
 python-sphinx
-</div>
+<div align="left">
 python-chardet
-</div>
+<div align="left">
 scrcpy
-</div>
+<div align="left">
 glib2-devel
-</div>
+<div align="left">
 ark
-</div>
+<div align="left">
 binder_linux-dkms
-</div>
+<div align="left">
 xf86-input-elographics
-</div>
+<div align="left">
 xf86-input-evdev
-</div>
+<div align="left">
 xf86-input-libinput
-</div>
+<div align="left">
 xf86-input-synaptics
-</div>
+<div align="left">
 xf86-input-vmmouse
-</div>
+<div align="left">
 xf86-input-void
-</div>
+<div align="left">
 xf86-input-wacom
-</div>
+<div align="left">
 xf86-video-amdgpu
-</div>
+<div align="left">
 xf86-video-ati
-</div>
+<div align="left">
 xf86-video-dummy
-</div>
+<div align="left">
 xf86-video-fbdev
-</div>
+<div align="left">
 xf86-video-intel
-</div>
+<div align="left">
 xf86-video-nouveau
-</div>
+<div align="left">
 xf86-video-sisusb
-</div>
+<div align="left">
 xf86-video-vesa
-</div>
+<div align="left">
 xf86-video-vmware
-</div>
+<div align="left">
 xf86-video-voodoo
 
 
