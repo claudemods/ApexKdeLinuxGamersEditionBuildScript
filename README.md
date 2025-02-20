@@ -37,7 +37,7 @@ There Will Be 2 Scripts 1 For My Minimal Edition And One For My Full Edition
 This Will Utilize My Kde Cloner To Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
 This Will Also Utilize claudemods-alpm
 
-</div>
+<div align="left">
 Things In Minimal Script
 </div>
 Installed Arch Packages
