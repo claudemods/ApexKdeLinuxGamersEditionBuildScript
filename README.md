@@ -34,7 +34,7 @@ c++23 konsole script to install Apex This Will contain Kde Linux Repos With Chao
 <div align="center">
 There Will Be 2 Scripts 1 For My Minimal Edition And One For My Full Edition
   <div align="center">
-This Will Utilize My Kde Clone to Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
+This Will Utilize My Kde Cloner To Clone My Custom Desktop Theme After Setting Up Repos And Installing Packages 
 
 
 
